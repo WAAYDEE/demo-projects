@@ -1,0 +1,138 @@
+@media only screen and (min-width:200px) and (max-width:575px){
+
+    .navigation ul li {
+        margin: 5px 0;
+    }
+    
+    .navbar-brand img {
+        width: 150px;
+        align-items: center;
+    }
+    .nav-item {
+        padding: 10px 0 !important;
+    }
+    .nav-link {
+        color: black !important;
+    }
+    .banner-first-row {
+        justify-content: center;
+    }
+    .banner-box-2 {
+        margin-top: 68px; 
+    }
+    .bar-inner {
+        width: 100%;
+        text-align: center;
+        padding: 0;
+        margin-top: 20px;
+        border-bottom: 2px solid brown;   
+    }
+    .bar-inner:last-child {
+        border-bottom: none;
+    }
+    .bar-heading {
+        padding: 5px 10px;
+    }
+    .bar-sub-text {
+        padding: 5px 10px;
+    }
+    .mouse-container {
+        margin: 20px;
+    }
+    .auction-container-heading {
+        padding-top: 20px;
+        padding-top: 10px;
+    }
+    .auction-heading {
+        font-size: 1.5rem;
+    }
+    .view-all {
+        font-size: 1rem;
+    }
+    .middle-banner {
+        margin: 20px 0;
+    }
+    .mid-banner-text {
+        font-size: 20px;
+        padding: 10px 0 !important;
+    }
+    .owl-prev, .owl-next {
+        display: none !important;
+    }
+    .how-sub-sections {
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    .banner-first-box {
+        margin-bottom: 20px;
+    }
+    .footer-bar p {
+        font-size: 10px;
+    }
+}
+
+@media only screen and (min-width:576px) and (max-width:991px){
+
+    .navigation ul li {
+        margin: 5px 0;
+    }
+    
+    .nav-item {
+        padding: 10px 0 !important;
+    }
+    .nav-link {
+        color: black !important;
+    }
+    .banner-first-row {
+        justify-content: center;
+    }
+    .banner-box-2 {
+        margin-top: 68px;
+    }
+    .bar-inner {
+        width: 100%;
+        text-align: center;
+        padding: 0;
+        margin-top: 20px;
+        border-bottom: 2px solid brown;   
+    }
+    .bar-inner:last-child {
+        border-bottom: none;
+    }
+    .bar-heading {
+        padding: 5px 10px;
+    }
+    .bar-sub-text {
+        padding: 5px 10px;
+    }
+    .mouse-container {
+        margin: 20px;
+    }
+    .auction-container-heading {
+          padding-bottom: 20px;
+          padding-top: 10px;
+    }
+    .auction-heading {
+        font-size: 1.5rem;
+     }
+    .view-all {
+        font-size: 1rem;
+     }
+    .middle-banner {
+        margin: 20px 0;
+    }
+    .mid-banner-text {
+        font-size: 20px;
+        padding: 10px 0 !important;
+    }
+    .owl-prev, .owl-next {
+        display: none !important;
+    }
+    .how-sub-sections {
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    .banner-first-box {
+        margin-bottom: 20px;
+    }
+}
